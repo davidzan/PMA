@@ -1,0 +1,6 @@
+There are four types of ducks in the game: Mallard Duck, Redhead Duck, Rubber Duck, and Decoy Duck.
+All types of the ducks have the same swim behavior but are with different displays.
+Some ducks can fly with wings, but some cannot fly.
+A duck can quack, squeak, or be silent.
+A duck can change its fly or quack behavior at run time.
+New fly or quack behaviors can be added, and the existing behaviors can be modified at compile time.
